@@ -1,0 +1,1 @@
+Score[id=4, dateTime=2023-02-11 14:14:13.532562, winner=1, score1=7, score2=2]
